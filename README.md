@@ -14,7 +14,7 @@ Steps to do update:
 ![2](https://github.com/prashant-1124/Sys-update-Linux-debian/assets/70467614/30406daa-3243-41e5-acbd-10c31e61e4f7)
 
 
-4. Press Y if asked Yes/No
+4. Press Y if asked [Y/n]
 
    
 ![3](https://github.com/prashant-1124/Sys-update-Linux-debian/assets/70467614/0416cb71-7ca9-4d36-adda-728915837fb9)
